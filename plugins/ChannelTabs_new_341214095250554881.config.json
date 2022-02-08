@@ -1,0 +1,76 @@
+{
+    "settings": {
+        "tabs": [
+            {
+                "name": "#givelab-verify",
+                "url": "/channels/922026804577959946/940017690175742032",
+                "selected": false,
+                "currentStatus": "none",
+                "iconUrl": "https://cdn.discordapp.com/icons/922026804577959946/1d4a3d107d21c0ab0fb25b745d352f26.webp?",
+                "channelId": "940017690175742032"
+            },
+            {
+                "name": "#大廳",
+                "url": "/channels/410038341741051914/410038341741051916",
+                "selected": true,
+                "currentStatus": "none",
+                "iconUrl": "https://cdn.discordapp.com/icons/410038341741051914/aa190da9e127d546da74834602f5faae.webp?",
+                "channelId": "410038341741051916"
+            }
+        ],
+        "favs": [
+            {
+                "name": "#油膩油氣",
+                "iconUrl": "https://cdn.discordapp.com/icons/271250908132802562/73bbbc9a9eefedc7acbf544d40615a0a.webp?",
+                "url": "/channels/271250908132802562/834087252317437972",
+                "channelId": "834087252317437972",
+                "groupId": -1
+            },
+            {
+                "name": "#tech",
+                "iconUrl": "https://cdn.discordapp.com/icons/271250908132802562/73bbbc9a9eefedc7acbf544d40615a0a.webp?",
+                "url": "/channels/271250908132802562/757578534674759760",
+                "channelId": "757578534674759760",
+                "groupId": -1
+            },
+            {
+                "name": "#大廳",
+                "iconUrl": "https://cdn.discordapp.com/icons/410038341741051914/aa190da9e127d546da74834602f5faae.webp?",
+                "url": "/channels/410038341741051914/410038341741051916",
+                "channelId": "410038341741051916",
+                "groupId": -1
+            },
+            {
+                "name": "#meme",
+                "iconUrl": "https://cdn.discordapp.com/icons/410038341741051914/aa190da9e127d546da74834602f5faae.webp?",
+                "url": "/channels/410038341741051914/535797162655744032",
+                "channelId": "535797162655744032",
+                "groupId": -1
+            }
+        ],
+        "favGroups": [],
+        "showTabBar": true,
+        "showFavBar": true,
+        "reopenLastChannel": false,
+        "showFavUnreadBadges": true,
+        "showFavMentionBadges": true,
+        "showFavTypingBadge": true,
+        "showEmptyFavBadges": true,
+        "showTabUnreadBadges": true,
+        "showTabMentionBadges": true,
+        "showTabTypingBadge": true,
+        "showEmptyTabBadges": false,
+        "showActiveTabUnreadBadges": false,
+        "showActiveTabMentionBadges": false,
+        "showActiveTabTypingBadge": false,
+        "showEmptyActiveTabBadges": false,
+        "compactStyle": true,
+        "privacyMode": false,
+        "showFavGroupUnreadBadges": true,
+        "showFavGroupMentionBadges": true,
+        "showFavGroupTypingBadge": true,
+        "showEmptyFavGroupBadges": true,
+        "showQuickSettings": true,
+        "alwaysFocusNewTabs": false
+    }
+}
